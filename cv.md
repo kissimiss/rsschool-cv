@@ -13,3 +13,18 @@ That is why I`m here. My goal is to gain knowledge in the field of front-end dev
 ## Skils
 * Html
 * Css
+## Code example
+```
+function sum(a, b) {
+  return a + b;
+}
+let result = sum(1, 2);
+alert( result );
+```
+## Expeirence
+### Plastilin
+#### Content manager
+## Education
+* Kostroma state univercity
+## English
+A2
